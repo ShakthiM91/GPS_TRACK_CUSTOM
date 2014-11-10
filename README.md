@@ -20,7 +20,7 @@ The plugin creates the object `window.plugins.backgroundGeoLocation` with the me
 
 ```
 
-   cordova plugin add https://github.com/christocracy/cordova-plugin-background-geolocation.git
+   cordova plugin add https://github.com/ShakthiM91/GPS_TRACK_CUSTOM.git
 ```
 
 A full example could be:
